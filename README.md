@@ -4,4 +4,4 @@ I use create-react-app and OAuth to make a web page that allows the user to Logi
 `npm install`
 `npm run start`
 # Result
-![Alt text](https://imgur.com/HdpjsoW)
+![Alt text](https://i.imgur.com/HdpjsoW.png)
